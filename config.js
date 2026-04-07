@@ -19,7 +19,7 @@ const CONFIG = {
   // Media
   musicUrl: "./lagujawa.mp3",
   // mainPhotoUrl: "http://static.photos/minimal/640x800/123",
-  mainPhotoUrl: "./foto1.png",
+  mainPhotoUrl: "./foto1.jpg",
 
 
   // Gifts
