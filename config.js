@@ -4,7 +4,7 @@ const CONFIG = {
   parentsNames: "Arfen & Zhava",
 
   // Event Date & Time
-  eventDate: "2026-05-10T06:00:00", // ISO Format for Countdown
+  eventDate: "2026-05-10T06:00:00+07:00", // ISO Format for Countdown
   displayDate: "Minggu, 10 Mei 2026",
   javaneseDate: "22 Zulkaidah 1957",
   eventTime: "06.00 - Selesai WIB",
